@@ -1,2 +1,7 @@
-# Start
-Say Hi
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x3D6F4931e4043E2C332DDd87Cc375878C5855436'
+quorum: 1
+
